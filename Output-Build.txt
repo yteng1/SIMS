@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: SIMS, Configuration: Debug Win32 ------
+1>  Input.cpp
+1>  SIMS.cpp
+1>  homepage.cpp
+1>  Generating Code...
+1>  SIMS.vcxproj -> C:\Users\yue_t\Desktop\SIMS\Debug\SIMS.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
